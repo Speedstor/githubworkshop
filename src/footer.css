@@ -87,10 +87,13 @@ footer{
 
 .copyright2{
 	box-sizing:border-box;
+	text-align:center;
 	width:328px;
 	color:grey;
 	margin:auto;
 	position:relative;
+	font-size: 6;
+	font-family: "Roboto",sans-serif,sans-serif;
 }
 
 .copyright3{

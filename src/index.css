@@ -260,3 +260,36 @@ body{
 .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
     right: 0px; 
 }
+
+.roundSignUpButton {
+    display:block;
+    width: 119px;
+    height:50px;
+    background: #84ec77;
+    border: 2px solid #84ec77;
+    border-radius: 12px;
+    color:#000000;
+    text-align:center;
+    line-height: 50px;
+    margin: 20px;
+    font-size: 18px;
+}
+.roundSignUpButton:hover {
+    transform: translateY(-10px);
+  }
+.keyPoints{
+    display: block;
+    text-align: left; 
+    font-size: 16px; 
+    margin-bottom: 10px;
+}
+.b1{
+    list-style-image: url(git-branch-458285_16x16.png);
+
+} 
+.b2{
+    list-style-image: url(http://upload.wikimedia.org/wikipedia/commons/6/61/Icons-mini-icon_security.gif);
+} 
+.b3{
+    list-style-image: url(osi_keyhole_300X300_90ppi_0_16x16.png);
+}
