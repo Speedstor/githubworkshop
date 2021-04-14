@@ -59,12 +59,26 @@
     }
     .mainDescription{
         font-size: medium;
+        padding-left: 30px;
+        padding-right: 30px;
+        text-align: justify;
     }
     .additional{
         font-size: 13px;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-bottom: 20px;
     }
     .pickDescription{
         font-size: 18px;
         font-weight: normal;
+        margin-left: 20px;
+    }
+    .wrapper-container{
+        margin: 0px !important;
+        width: 100% !important;
+    }
+    .list-wrap{
+        padding: 10px 8px !important;
     }
   }
